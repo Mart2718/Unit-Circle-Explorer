@@ -1,0 +1,6 @@
+{
+  "name": "Unit Circle Explorer",
+  "description": "An interactive educational tour of the unit circle for students and teachers to visualize sine and cosine values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
